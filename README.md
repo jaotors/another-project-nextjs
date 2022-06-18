@@ -1,5 +1,6 @@
-# CMS Blog Using NextJS
-Trying some new stuvves
+# PROJECT using nextjs
+maybe a passion project or something just want to try some new stuvves
+
 
 ## Tech stack
 - [NextJS](https://nextjs.org/)
